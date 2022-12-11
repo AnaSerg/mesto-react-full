@@ -1,0 +1,21 @@
+.button_type_close {
+    width: 32px;
+    height: 32px;
+    background: url(../../../images/Close-button.svg) center no-repeat;
+    border: none;
+    grid-area: 1 / 2 / 2 / 3;
+}
+
+.button_type_close:hover {
+    opacity: .6;
+}
+
+@media screen and (max-width: 560px) {
+    .button_type_close {
+        width: 20px;
+        height: 20px;
+        grid-area: 1 / 1 / 2 / 2;
+        justify-self: end;
+        background: url(../../../images/Close-button_mobile.svg) center no-repeat;
+    }
+}
