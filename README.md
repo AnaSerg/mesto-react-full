@@ -15,9 +15,9 @@ HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Webpack, БЭМ
 - всплывающее подтверждение удаления карточек
 
 ### Адреса
-IP 158.160.49.56
-Frontend https://anaserg.nomoredomains.club
-Backend https://api.anaserg.nomoredomains.club
+- IP 158.160.49.56
+- Frontend https://anaserg.nomoredomains.club
+- Backend https://api.anaserg.nomoredomains.club
 
 ### Ссылка на репозиторий
 https://github.com/AnaSerg/mesto-react-full
